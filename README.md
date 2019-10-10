@@ -1,2 +1,2 @@
 # RU2019S-CS536
-repo for homework
+This is NOT a perfect solution.
